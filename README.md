@@ -6,32 +6,13 @@ The main focus is to analyze match results, player performance, toss impact, and
 
 ---
 
-## 🧠 What I Have Done in This Project
+## 🔍 Project Overview
 
-- Imported required Python libraries for data analysis and visualization
-- Loaded the IPL matches dataset
-- Viewed the first few records of the dataset
-- Checked the number of rows and columns in the dataset
-- Analyzed **Man of the Match** awards:
-  - Found frequency of all awards
-  - Extracted **Top 10 players** with most awards
-- Created **bar plots** for visual analysis
-- Analyzed match results:
-  - Frequency of match results
-  - Teams winning after winning the toss
-- Extracted matches where:
-  - Team won **batting first**
-  - Team won **batting second**
-- Visualized:
-  - Toss decision (bat / field) using histogram
-  - Winning teams using bar plots and pie charts
-- Found:
-  - Top 3 teams with most wins (bar & pie chart)
-  - Frequency of wins with respect to number of wickets
-- Analyzed season-wise and city-wise match distribution
-- Calculated how many times a team **won the match after winning the toss**
+- Performed EDA on IPL matches dataset
+- Analyzed team performance, toss impact, and player achievements
+- Visualized insights using bar charts, histograms, and pie charts
+- Focused on writing clean, understandable, and reusable analysis code
 
----
 
 ## 🛠️ Libraries Used
 
