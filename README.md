@@ -20,7 +20,7 @@ The main focus is to analyze match results, player performance, toss impact, and
 - **Seaborn** – Statistical data visualization  
 - **NumPy** – Numerical operations  
 
-## 🧠 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Data Cleaning & Analysis using **Pandas**
 - Data Visualization using **Matplotlib** and **Seaborn**
