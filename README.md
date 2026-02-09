@@ -4,7 +4,6 @@ This project performs **exploratory data analysis (EDA)** on the **IPL matches d
 
 The main focus is to analyze match results, player performance, toss impact, and team-wise statistics using visualizations.
 
----
 
 ## 🔍 Project Overview
 
@@ -21,7 +20,15 @@ The main focus is to analyze match results, player performance, toss impact, and
 - **Seaborn** – Statistical data visualization  
 - **NumPy** – Numerical operations  
 
----
+## 🧠 Key Skills Demonstrated
+
+- Data Cleaning & Analysis using **Pandas**
+- Data Visualization using **Matplotlib** and **Seaborn**
+- Working with real-world datasets
+- Extracting insights from categorical and numerical data
+- Basic statistical and frequency analysis
+- Python programming fundamentals
+
 
 ## 📌 Sample Code Snippet
 
