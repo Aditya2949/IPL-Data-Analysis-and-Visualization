@@ -38,10 +38,6 @@ The main focus is to analyze match results, player performance, toss impact, and
 
 
 
-## Contact :-
-gmail:-adityapatil2949@gmail.com
-## 📌 Sample Code Snippet
-
 ```python
 # loading the required libraries
 import pandas as pd
