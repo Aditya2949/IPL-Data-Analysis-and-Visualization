@@ -29,13 +29,12 @@ The main focus is to analyze match results, player performance, toss impact, and
 - Basic statistical and frequency analysis
 - Python programming fundamentals
 
-  ## 🛠️ Technologies & Libraries Used
+## 🎯 Purpose of This Project
 
-- **Python**
-- **Pandas**
-- **Matplotlib**
-- **Seaborn**
-- **NumPy**
+-To understand Exploratory Data Analysis (EDA)
+-To practice data visualization using Python
+-To analyze real-world sports data
+-To improve skills for data science & analytics
 
 
 
