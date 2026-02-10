@@ -30,6 +30,8 @@ The main focus is to analyze match results, player performance, toss impact, and
 - Python programming fundamentals
 
 
+## Contact :-
+gmail:-adityapatil2949@gmail.com
 ## 📌 Sample Code Snippet
 
 ```python
@@ -38,5 +40,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import seaborn as sns
 import numpy as np
+
+
 
 
