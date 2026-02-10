@@ -29,6 +29,15 @@ The main focus is to analyze match results, player performance, toss impact, and
 - Basic statistical and frequency analysis
 - Python programming fundamentals
 
+  ## 🛠️ Technologies & Libraries Used
+
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+- **NumPy**
+
+
 
 ## Contact :-
 gmail:-adityapatil2949@gmail.com
