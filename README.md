@@ -31,10 +31,10 @@ The main focus is to analyze match results, player performance, toss impact, and
 
 ## 🎯 Purpose of This Project
 
--To understand Exploratory Data Analysis (EDA)
--To practice data visualization using Python
--To analyze real-world sports data
--To improve skills for data science & analytics
+- To understand Exploratory Data Analysis (EDA)
+- To practice data visualization using Python
+- To analyze real-world sports data
+- To improve skills for data science & analytics
 
 
 
