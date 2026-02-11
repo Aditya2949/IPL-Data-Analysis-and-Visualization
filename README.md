@@ -36,14 +36,17 @@ The main focus is to analyze match results, player performance, toss impact, and
 - To analyze real-world sports data
 - To improve skills for data science & analytics
 
+## 📊 Key Analysis Performed
+
+- Top 10 Man of the Match winners
+- Toss winner vs match winner analysis
+- Batting first vs batting second win comparison
+- Team-wise total wins
+- City-wise number of matches
+- Season-wise number of matches
+- Toss impact on match results
 
 
-```python
-# loading the required libraries
-import pandas as pd
-from matplotlib import pyplot as plt
-import seaborn as sns
-import numpy as np
 
 
 
