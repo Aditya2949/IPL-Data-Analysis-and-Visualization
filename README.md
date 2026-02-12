@@ -52,9 +52,6 @@ The main focus is to analyze match results, player performance, toss impact, and
 
 - Add more advanced visualizations
 
-- Perform predictive analysis
-
-- Add insights and conclusions section
 
 
 
