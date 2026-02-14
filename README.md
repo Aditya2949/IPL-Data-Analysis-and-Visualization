@@ -50,7 +50,7 @@ The main focus is to analyze match results, player performance, toss impact, and
 
 - Add player-wise performance analysis
 
-- Add more advanced visualizations
+
 
 
 
