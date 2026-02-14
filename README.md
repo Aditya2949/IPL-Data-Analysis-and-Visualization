@@ -48,7 +48,6 @@ The main focus is to analyze match results, player performance, toss impact, and
 
 ## 🚀 Future Improvements
 
-- Add player-wise performance analysis
 
 
 
