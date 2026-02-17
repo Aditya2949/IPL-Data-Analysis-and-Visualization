@@ -46,7 +46,6 @@ The main focus is to analyze match results, player performance, toss impact, and
 - Season-wise number of matches
 - Toss impact on match results
 
-## 🚀 Future Improvements
 
 
 
