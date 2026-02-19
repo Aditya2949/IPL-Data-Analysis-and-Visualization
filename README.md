@@ -45,7 +45,8 @@ The main focus is to analyze match results, player performance, toss impact, and
 - City-wise number of matches
 - Season-wise number of matches
 - Toss impact on match results
-- Pie chart of most win teams 
+- Pie chart of most win teams
+- First bat team win 
 
 
 
