@@ -47,6 +47,7 @@ The main focus is to analyze match results, player performance, toss impact, and
 - Toss impact on match results
 - Pie chart of most win teams
 - Batting second team won
+- Making Histogram:-Teams and their wining ratios after second bat
 
 
 
