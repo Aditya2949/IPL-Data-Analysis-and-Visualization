@@ -52,6 +52,7 @@ The main focus is to analyze match results, player performance, toss impact, and
 - making pie chart for winning second team
 
 ## Contact
+- Email :- adityapatil2949@gmail.com
 
 
 
