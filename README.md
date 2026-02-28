@@ -53,6 +53,7 @@ The main focus is to analyze match results, player performance, toss impact, and
 
 ## Contact
 - Email :- adityapatil2949@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aditya-patil-7047512a1/
 
 
 
