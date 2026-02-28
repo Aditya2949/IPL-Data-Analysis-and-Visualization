@@ -56,6 +56,8 @@ If you found this project useful or would like to collaborate :
 - Email :- adityapatil2949@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aditya-patil-7047512a1/
 
+✨If you like this project,please give it a star!
+
 
 
 
